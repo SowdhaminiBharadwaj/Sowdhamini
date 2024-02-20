@@ -10,7 +10,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - Places Visited.qmd
+      - Skills & Projects.qmd
       
 
 format:

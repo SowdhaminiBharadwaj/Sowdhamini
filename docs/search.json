@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "George Mason University | VA | USA, M.S in Data Analytics Engineering"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "",
+    "text": "George Mason University | VA | USA, M.S in Data Analytics Engineering"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About",
+    "section": "Experience",
+    "text": "Experience\nTechnical Associate in Data Management | Merilytics"
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "About",
+    "section": "Skills",
+    "text": "Skills\nSQL, Azure Data Factory, C, Python"
+  },
+  {
+    "objectID": "about.html#interests",
+    "href": "about.html#interests",
+    "title": "About",
+    "section": "Interests",
+    "text": "Interests\nBesides my education, I always like to keep myself occupied. I prefer playing badminton during my free time. Travelling is the one which I am always interested in. You will find some of the beautiful and interesting places that I have visited in the coming pages."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Hello all!! This is Sowdhamini Bharadwaj.\nLet’s get started.."
+  }
+]

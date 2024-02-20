@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Sowdhamini"
+  navbar:
+    background: primary
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - Places Visited.qmd
+      
+
+format:
+  html:
+    theme: costo
+    css: styles.css
+    toc: true
+
+editor: visual
+
